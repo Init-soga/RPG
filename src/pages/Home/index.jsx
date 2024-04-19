@@ -10,7 +10,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="flex flex-col justify-center items-center min-w-screen min-h-screen bg-[url('./assets/root.png')]">
+      <div className="flex flex-col justify-center items-center min-w-screen min-h-screen bg-[url('./assets/root.png')] md:bg-[url('./assets/pcRoot.jpg')]">
         <br />
         <button
           className='border-[#C89B3C] bg-[#0A1428] border py-3 px-6 text-[#FFF]'
