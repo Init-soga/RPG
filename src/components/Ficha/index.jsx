@@ -12,7 +12,7 @@ const Ficha = () => {
           O FILHO DE NOXUS
         </span>
         <div className='flex justify-center'>
-          <div className="bg-[url('')]"></div>
+          <div className="bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png')]"></div>
           <div></div>
         </div>
       </div>
