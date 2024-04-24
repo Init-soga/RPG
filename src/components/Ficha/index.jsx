@@ -20,7 +20,7 @@ const Ficha = () => {
       </div>
       <div className='h-[15vh] flex justify-center gap-5'>
         <div className="w-[25vw] bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png')] bg-center bg-contain bg-no-repeat"></div>
-        <div className="w-[25vw] bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/noxus.png')] bg-center bg-contain bg-no-repeat"></div>
+        <div className="w-[25vw] bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ionia-noxus.png')] bg-center bg-contain bg-no-repeat"></div>
       </div>
       <span className='p-5 text-center text-[#C89B3C] flex justify-center'>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sint
