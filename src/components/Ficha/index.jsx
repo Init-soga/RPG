@@ -3,18 +3,24 @@ import React from 'react'
 const Ficha = () => {
   return (
     <>
-      <div className="w-screen h-[30vh] mb-4 md:h-[40vh] border-2 border-[#C89B3C] bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Khamzat/splash.png')] bg-cover bg-center"></div>
-      <div className='border-[#C89B3C] border-2'>
+      <div className="w-screen h-[30vh] mb-4 md:h-[40vh] border-2 md:border-[#C89B3C] border-none bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Khamzat/splash.png')] bg-cover bg-center"></div>
+      <div>
+        <div className='w-screen'>
+          <img
+            src='https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/visuals/divider.png'
+            alt=''
+          />
+        </div>
         <span className='flex justify-center text-3xl pt-2 text-[#C89B3C]'>
           KHAMZAT
         </span>
         <span className='flex justify-center text-xl text-[#C89B3C]'>
           O FILHO DE NOXUS
         </span>
-        <div className='flex justify-center'>
-          <div className="bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png')]"></div>
-          <div></div>
-        </div>
+      </div>
+      <div className='h-[15vh] flex justify-center gap-5'>
+        <div className="w-[25vw] bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png')] bg-center bg-contain bg-no-repeat"></div>
+        <div className="w-[25vw] bg-[url('https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/noxus.png')] bg-center bg-contain bg-no-repeat"></div>
       </div>
       <span className='p-5 text-center text-[#C89B3C] flex justify-center'>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sint
