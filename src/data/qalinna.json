@@ -1,0 +1,18 @@
+{
+    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Khamzat/splash.png",
+    "name": "QALINNA",
+    "title": "A SOMBRA DA MENTIRA",
+    "bioTitle": "NÃO HÁ LIMITE PARA A CRIATIVIDADE QUANDO SE TRATA DE ENGANAR ALGUÉM",
+    "khamzatBio": "Entre as sombras de Runeterra, nas mais densas florestas e arcologias de Ixtal há uma figura que poucos ousam desafiar. Qalinna, a Sombra da Mentira, uma axiomata Yun Tal que usa sua habilidade de enganar e manipular a mente alheia para causar pânico e destruição. Sua beleza e graça são apenas fachadas, para esconder sua verdadeira natureza: uma predadora astuta e impiedosa, que não hesitará em te usar para alcançar seus objetivos.",
+    "khamzatSpeach": "Tome cuidado: a verdade é apenas uma questão de percepção e a sua está prestes a mudar. - Qalinna",
+    "roleName": "MAGO",
+    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png",
+    "regionName": "IXTAL",
+    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ionia-noxus.png",
+    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/darius.png",
+    "relatedName1": "Darius",
+    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/swain.png",
+    "relatedName2": "Milio",
+    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/karma.png",
+    "relatedName3": "Karma"
+}

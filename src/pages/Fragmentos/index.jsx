@@ -29,7 +29,7 @@ const Fragmentos = () => {
           imagem='https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Nivek/select.jpg'
         />
         <Personagem
-          nome='QALLINNA'
+          nome='QALINNA'
           imagem='https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Qallinna/select.png'
         />
         <Personagem
