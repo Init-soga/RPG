@@ -35,6 +35,7 @@ const Ficha = () => {
         <span className='pb-4'>"O PASSADO É O MESTRE MAIS CRUEL"</span>
         <span className='text-sm px-2 text-justify'>{khamzatBio}</span>
       </div>
+      <div className='w-[100vw]'>personagens relacionados</div>
     </>
   )
 }
