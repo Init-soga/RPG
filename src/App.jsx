@@ -19,7 +19,26 @@ const rotas = () => {
             <Route path='/fragmentos' element={<Fragmentos />} />
             <Route
               path='/fragmentos/andrius'
-              element={<Ficha name={andrius.name} />}
+              element={
+                <Ficha
+                  name={andrius.name}
+                  title={andrius.title}
+                  bioTitle={andrius.bioTitle}
+                  charBio={andrius.khamzatBio}
+                  charSpeach={andrius.khamzatSpeach}
+                  splashUrl={andrius.splashUrl}
+                  roleName={andrius.roleName}
+                  roleUrl={andrius.roleUrl}
+                  regionName={andrius.regionName}
+                  regionUrl={andrius.regionUrl}
+                  relatedName1={andrius.relatedName1}
+                  relatedName2={andrius.relatedName2}
+                  relatedName3={andrius.relatedName3}
+                  relatedSplash1={andrius.relatedSplash1}
+                  relatedSplash2={andrius.relatedSplash2}
+                  relatedSplash3={andrius.relatedSplash3}
+                />
+              }
             ></Route>
             <Route
               path='/fragmentos/khamzat'
