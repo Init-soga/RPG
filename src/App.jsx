@@ -9,6 +9,8 @@ import andrius from './data/andrius.json'
 import qalinna from './data/qalinna.json'
 import mizo from './data/mizo.json'
 import kaioh from './data/kaioh.json'
+import nivek from './data/nivek.json'
+import rhoden from './data/rhoden.json'
 
 const rotas = () => {
   return (
@@ -111,6 +113,29 @@ const rotas = () => {
               }
             ></Route>
             <Route
+              path='/fragmentos/nivek'
+              element={
+                <Ficha
+                  name={nivek.name}
+                  title={nivek.title}
+                  bioTitle={nivek.bioTitle}
+                  charBio={nivek.khamzatBio}
+                  charSpeach={nivek.khamzatSpeach}
+                  splashUrl={nivek.splashUrl}
+                  roleName={nivek.roleName}
+                  roleUrl={nivek.roleUrl}
+                  regionName={nivek.regionName}
+                  regionUrl={nivek.regionUrl}
+                  relatedName1={nivek.relatedName1}
+                  relatedName2={nivek.relatedName2}
+                  relatedName3={nivek.relatedName3}
+                  relatedSplash1={nivek.relatedSplash1}
+                  relatedSplash2={nivek.relatedSplash2}
+                  relatedSplash3={nivek.relatedSplash3}
+                />
+              }
+            ></Route>
+            <Route
               path='/fragmentos/qalinna'
               element={
                 <Ficha
@@ -130,6 +155,29 @@ const rotas = () => {
                   relatedSplash1={qalinna.relatedSplash1}
                   relatedSplash2={qalinna.relatedSplash2}
                   relatedSplash3={qalinna.relatedSplash3}
+                />
+              }
+            ></Route>
+            <Route
+              path='/fragmentos/rhoden'
+              element={
+                <Ficha
+                  name={rhoden.name}
+                  title={rhoden.title}
+                  bioTitle={rhoden.bioTitle}
+                  charBio={rhoden.khamzatBio}
+                  charSpeach={rhoden.khamzatSpeach}
+                  splashUrl={rhoden.splashUrl}
+                  roleName={rhoden.roleName}
+                  roleUrl={rhoden.roleUrl}
+                  regionName={rhoden.regionName}
+                  regionUrl={rhoden.regionUrl}
+                  relatedName1={rhoden.relatedName1}
+                  relatedName2={rhoden.relatedName2}
+                  relatedName3={rhoden.relatedName3}
+                  relatedSplash1={rhoden.relatedSplash1}
+                  relatedSplash2={rhoden.relatedSplash2}
+                  relatedSplash3={rhoden.relatedSplash3}
                 />
               }
             ></Route>

@@ -1,0 +1,18 @@
+{
+    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Rhoden/splash.png",
+    "name": "RHODEN",
+    "title": "O EQUILÍBRIO IMUTÁVEL",
+    "bioTitle": "Pela minha mão Ionia prevalecerá, e nossa liberdade não poderá ser contida.",
+    "khamzatBio": "Filho abandonado de Noxus. Guerreiro forjado em Ionia. Treinado para comandar, Rhoden escolheu servir um propósito maior, a alguém maior, e nada irá impedí-lo de libertar as primeiras terras das garras de Noxus e do Trifárix.",
+    "khamzatSpeach": "Minha vontade é inigualável, minha lança imparável e meu brado, assustador. - Rhoden",
+    "roleName": "LUTADOR",
+    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png",
+    "regionName": "IONIA/NOXUS",
+    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ionia-noxus.png",
+    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/irelia.png",
+    "relatedName1": "Irelia",
+    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/jack.png",
+    "relatedName2": "Jack",
+    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/swain.png",
+    "relatedName3": "Swain"
+}

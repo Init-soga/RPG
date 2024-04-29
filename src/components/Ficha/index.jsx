@@ -42,7 +42,7 @@ const Ficha = ({
         </span>
       </div>
       <div className='h-[10vh] flex justify-center gap-5 mt-5 mb-3'>
-        <div>
+        <div className='flex flex-col justify-center items-center'>
           <div className={`w-[25vw] h-[8vh]`}>
             <img
               src={roleUrl}
@@ -52,7 +52,7 @@ const Ficha = ({
           </div>
           <div className='text-center text-sm text-[#C89B3C]'>{roleName}</div>
         </div>
-        <div>
+        <div className='flex flex-col justify-center items-center'>
           <div className={`w-[25vw] h-[8vh]`}>
             <img
               src={regionUrl}
@@ -60,7 +60,7 @@ const Ficha = ({
               className=' w-full h-full object-contain object-center'
             />
           </div>
-          <div className='text-center text-sm text-[#C89B3C]'>{regionName}</div>
+          <div className='text-sm text-[#C89B3C]'>{regionName}</div>
         </div>
       </div>
       <div className='p-5 pb-8 text-l text-center text-[#C89B3C] flex flex-col justify-center'>
