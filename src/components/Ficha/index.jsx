@@ -20,9 +20,13 @@ const Ficha = ({
 }) => {
   return (
     <>
-      <div
-        className={`w-screen h-[30vh] mb-4 md:h-[40vh] border-2 md:border-[#C89B3C] border-none bg-[url('${splashUrl}')] bg-cover bg-center`}
-      ></div>
+      <div className='w-screen h-[30vh] mb-4 md:h-[40vh] border-none'>
+        <img
+          src={splashUrl}
+          alt=''
+          className='w-[100%] h-[100%] object-cover object-center'
+        />
+      </div>
       <div>
         <div className='w-screen'>
           <img
@@ -39,21 +43,29 @@ const Ficha = ({
       </div>
       <div className='h-[10vh] flex justify-center gap-5 mt-5 mb-3'>
         <div>
-          <div
-            className={`w-[25vw] h-[8vh] bg-[url('${roleUrl}')] bg-center bg-contain bg-no-repeat`}
-          ></div>
+          <div className={`w-[25vw] h-[8vh]`}>
+            <img
+              src={roleUrl}
+              alt=''
+              className='w-full h-full object-contain object-center'
+            />
+          </div>
           <div className='text-center text-sm text-[#C89B3C]'>{roleName}</div>
         </div>
         <div>
-          <div
-            className={`w-[25vw] h-[8vh] bg-[url('${regionUrl}')] bg-center bg-contain bg-no-repeat`}
-          ></div>
+          <div className={`w-[25vw] h-[8vh]`}>
+            <img
+              src={regionUrl}
+              alt=''
+              className=' w-full h-full object-contain object-center'
+            />
+          </div>
           <div className='text-center text-sm text-[#C89B3C]'>{regionName}</div>
         </div>
       </div>
       <div className='p-5 pb-8 text-l text-center text-[#C89B3C] flex flex-col justify-center'>
         <span className='pb-4'>"{bioTitle}"</span>
-        <span className='text-sm px-2 text-justify'>{charBio}</span>
+        <span className='text-sm px-4 text-justify'>{charBio}</span>
       </div>
 
       <div className='flex justify-center mb-7'>
