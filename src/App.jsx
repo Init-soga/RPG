@@ -7,9 +7,10 @@ import Ficha from './components/Ficha'
 import khamzat from './data/khamzat.json'
 import andrius from './data/andrius.json'
 import qalinna from './data/qalinna.json'
+import mizo from './data/mizo.json'
+import kaioh from './data/kaioh.json'
 
 const rotas = () => {
-
   return (
     <>
       <HashRouter>
@@ -60,6 +61,52 @@ const rotas = () => {
                   relatedSplash1={khamzat.relatedSplash1}
                   relatedSplash2={khamzat.relatedSplash2}
                   relatedSplash3={khamzat.relatedSplash3}
+                />
+              }
+            ></Route>
+            <Route
+              path='/fragmentos/mizo'
+              element={
+                <Ficha
+                  name={mizo.name}
+                  title={mizo.title}
+                  bioTitle={mizo.bioTitle}
+                  charBio={mizo.khamzatBio}
+                  charSpeach={mizo.khamzatSpeach}
+                  splashUrl={mizo.splashUrl}
+                  roleName={mizo.roleName}
+                  roleUrl={mizo.roleUrl}
+                  regionName={mizo.regionName}
+                  regionUrl={mizo.regionUrl}
+                  relatedName1={mizo.relatedName1}
+                  relatedName2={mizo.relatedName2}
+                  relatedName3={mizo.relatedName3}
+                  relatedSplash1={mizo.relatedSplash1}
+                  relatedSplash2={mizo.relatedSplash2}
+                  relatedSplash3={mizo.relatedSplash3}
+                />
+              }
+            ></Route>
+            <Route
+              path='/fragmentos/kaioh'
+              element={
+                <Ficha
+                  name={kaioh.name}
+                  title={kaioh.title}
+                  bioTitle={kaioh.bioTitle}
+                  charBio={kaioh.khamzatBio}
+                  charSpeach={kaioh.khamzatSpeach}
+                  splashUrl={kaioh.splashUrl}
+                  roleName={kaioh.roleName}
+                  roleUrl={kaioh.roleUrl}
+                  regionName={kaioh.regionName}
+                  regionUrl={kaioh.regionUrl}
+                  relatedName1={kaioh.relatedName1}
+                  relatedName2={kaioh.relatedName2}
+                  relatedName3={kaioh.relatedName3}
+                  relatedSplash1={kaioh.relatedSplash1}
+                  relatedSplash2={kaioh.relatedSplash2}
+                  relatedSplash3={kaioh.relatedSplash3}
                 />
               }
             ></Route>

@@ -1,0 +1,18 @@
+{
+    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Mizo/splash.png",
+    "name": "MIZO",
+    "title": "O CÂNTICO DA REVOLUÇÃO",
+    "bioTitle": "Eu tocarei a partitura da revolução e Piltover cairá ao som de Dó menor.",
+    "khamzatBio": "Eu canto por todos aqueles que morreram nas sua mãos, caídos, expulsos... Mas só isso não adianta, eu irei atrás dos culpados, não importa o que eu precisarei enfrentar ou perder, Piltover se ajoelhará por tudo que fez ao nosso povo.",
+    "khamzatSpeach": "Saibam que quando as casas pegarem fogo e quando os ratos saírem dos bueiros para atacar, eu serei aquele que toca a flauta. - Mizo",
+    "roleName": "SUPORTE",
+    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/support.png",
+    "regionName": "ZAUN",
+    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/zaun.png",
+    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/ekko.png",
+    "relatedName1": "Ekko",
+    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/singed.png",
+    "relatedName2": "Singed",
+    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/criadora.png",
+    "relatedName3": "A Criadora"
+}
