@@ -73,6 +73,9 @@ const Ficha = ({ charData }) => {
 
         <div className='pt-10 h-[100vh] overflow-x-hidden'>
           <div className='w-[100%]'>
+            
+            {/* ROLE, REGION & SPLASH */}
+
             <div className='flex justify-around px-5'>
               <Role roleName={charData.roleName} roleUrl={charData.roleUrl} />
               <Splash splashUrl={charData.splashUrl} />
@@ -81,10 +84,19 @@ const Ficha = ({ charData }) => {
                 regionUrl={charData.regionUrl}
               />
             </div>
+
+            {/* TITULOS */}
+
             <Titles name={charData.name} title={charData.title} />
+
+            {/* BIO */}
+
             <div>
               <Bio bioTitle={charData.bioTitle} charBio={charData.bio} />
             </div>
+
+            {/* RELACIONADOS */}
+
             <div>
               <div>
                 <div className='flex justify-center mb-7'>
@@ -108,6 +120,9 @@ const Ficha = ({ charData }) => {
                 </div>
               </div>
             </div>
+
+            {/* FALA */}
+
             <div>
               <Speach charSpeach={charData.speach} />
             </div>
