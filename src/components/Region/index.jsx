@@ -3,7 +3,7 @@ import React from 'react'
 const Region = ({regionName, regionUrl}) => {
   return (
     <>
-      <div className='flex flex-col justify-center items-center'>
+      <div className='flex flex-col justify-center items-center '>
         <div className={`w-[25vw] h-[8vh] md:h-[12vh]`}>
           <img
             src={regionUrl}

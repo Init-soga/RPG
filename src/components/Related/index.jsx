@@ -9,7 +9,7 @@ const Related = ({relatedSplash, relatedName}) => {
           alt='First character with interaction with main char.'
           className='border-2 border-[#C89B3C] rounded-full'
         />
-        <span className='text-center pt-2 text-[#C89B3C]'>{relatedName}</span>
+        <span className='text-center pt-2 text-[#C89B3C] font-bold'>{relatedName}</span>
       </div>
     </div>
   )

@@ -16,7 +16,7 @@ const Personagem = ({ nome, imagem }) => {
         onClick={handleClick}
       >
         <img src={imagem} className='rounded-full border-2 border-[#C89B3C]' />
-        <div className='pt-2 text-[#C89B3C] text-xl'>{nome}</div>
+        <div className='pt-2 text-[#C89B3C] text-xl font-bold'>{nome}</div>
       </div>
     </>
   )
