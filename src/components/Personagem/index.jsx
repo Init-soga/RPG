@@ -6,7 +6,7 @@ const Personagem = ({ nome, imagem }) => {
 
   const handleClick = () => {
     let nomeLower = nome.toLowerCase()
-    navigate(`/fragmentos/${nomeLower}`)
+    navigate(`/personagens/${nomeLower}`)
   }
 
   return (

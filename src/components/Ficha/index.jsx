@@ -7,8 +7,19 @@ import Bio from '../Bio'
 import Related from '../Related'
 import Speach from '../Speach'
 import Splash from '../Splash'
+import { useNavigate } from 'react-router-dom'
 
 const Ficha = ({ charData }) => {
+  const navigate = useNavigate()
+
+  const handleBack = () => {
+    navigate(`/personagens`)
+  }
+
+  const handleSkills = () => {
+    navigate(`/personagens/${charData.name.toLowerCase()}/skills`)
+  }
+
   return (
     <>
       <MobileView>
@@ -62,19 +73,33 @@ const Ficha = ({ charData }) => {
             </div>
           </div>
 
+          <div className='flex justify-center gap-5'>
+            <button
+              className='border-2 px-5 py-2 border-[#C89B3C] rounded-md text-[#C89B3C]'
+              onClick={handleBack}
+            >
+              Voltar
+            </button>
+            <button
+              className='border-2 px-5 py-2 border-[#C89B3C] rounded-md text-[#C89B3C]'
+              onClick={handleSkills}
+            >
+              Habilidades
+            </button>
+          </div>
+
           {/* FALA */}
 
           <Speach charSpeach={charData.speach} />
         </div>
       </MobileView>
 
+      {/* }
       <BrowserView>
-        {/* DESKTOP */}
 
         <div className='pt-10 h-[100vh] overflow-x-hidden'>
           <div className='w-[100%]'>
-            
-            {/* ROLE, REGION & SPLASH */}
+
 
             <div className='flex justify-around px-5'>
               <Role roleName={charData.roleName} roleUrl={charData.roleUrl} />
@@ -85,17 +110,17 @@ const Ficha = ({ charData }) => {
               />
             </div>
 
-            {/* TITULOS */}
+
 
             <Titles name={charData.name} title={charData.title} />
 
-            {/* BIO */}
+
 
             <div>
               <Bio bioTitle={charData.bioTitle} charBio={charData.bio} />
             </div>
 
-            {/* RELACIONADOS */}
+
 
             <div>
               <div>
@@ -121,7 +146,7 @@ const Ficha = ({ charData }) => {
               </div>
             </div>
 
-            {/* FALA */}
+
 
             <div>
               <Speach charSpeach={charData.speach} />
@@ -129,6 +154,7 @@ const Ficha = ({ charData }) => {
           </div>
         </div>
       </BrowserView>
+  {*/}
     </>
   )
 }
