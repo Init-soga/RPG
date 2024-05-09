@@ -10,15 +10,15 @@ const Skills = ({ charData }) => {
       <div className='flex justify-center h-[10vh] pt-[3vh] text-xl text-[#C89B3C]'>
         Habilidades/Itens de {charData.name}
       </div>
-      <div>
+      <div className='h-full'>
         <ImageGallery
-          className='h-[85vh]'
           items={carouselImages}
           showNav={false}
-          showThumbnails={false}
+          showThumbnails={true}
           showFullscreenButton={false}
           showPlayButton={false}
           infinite={false}
+          showBullets={false}
         ></ImageGallery>
       </div>
     </div>
