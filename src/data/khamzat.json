@@ -16,14 +16,29 @@
   "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/karma.png",
   "relatedName3": "Karma",
   "skills": [
-    "https://live.staticflickr.com/65535/53710624159_7b9692616e_k.jpg",
-    "https://live.staticflickr.com/65535/53710623974_afc1ec610d_k.jpg",
-    "https://live.staticflickr.com/65535/53710548518_c8792ca3dc_k.jpg",
-    "https://live.staticflickr.com/65535/53710337731_2131692e21_k.jpg",
-    "https://live.staticflickr.com/65535/53710548663_fd01f4f769_k.jpg",
-    "https://live.staticflickr.com/65535/53710337886_b607c04988_k.jpg",
-    "https://live.staticflickr.com/65535/53710669214_db15636c26_k.jpg",
-    "https://live.staticflickr.com/65535/53710771050_59cf447991_k.jpg"
+    {
+      "original": "https://live.staticflickr.com/65535/53710624159_7b9692616e_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710623974_afc1ec610d_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710548518_c8792ca3dc_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710337731_2131692e21_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710548663_fd01f4f769_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710337886_b607c04988_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710669214_db15636c26_k.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53710771050_59cf447991_k.jpg"
+    }
   ]
 }
-

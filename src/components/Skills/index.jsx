@@ -1,5 +1,6 @@
 import React from 'react'
-import { Carousel } from 'flowbite-react'
+import ImageGallery from 'react-image-gallery'
+import 'react-image-gallery/styles/css/image-gallery.css'
 
 const Skills = ({ charData }) => {
   const carouselImages = charData.skills
@@ -10,16 +11,15 @@ const Skills = ({ charData }) => {
         Habilidades/Itens de {charData.name}
       </div>
       <div>
-        <Carousel leftControl="left" rightControl="right" slide={false} className='h-[85vh]'>
-          {carouselImages.map(image => (
-            <img src={image} className='w-full object-contain' />
-          ))}
-        </Carousel>
-        {/* <Carousel nextArrow={() => (<></>)} prevArrow={() => (<></>)}>
-          {carouselImages.map(image => (
-            <img src={image} className='h-[85vh] w-full object-contain' />
-          ))}
-        </Carousel> */}
+        <ImageGallery
+          className='h-[85vh]'
+          items={carouselImages}
+          showNav={false}
+          showThumbnails={false}
+          showFullscreenButton={false}
+          showPlayButton={false}
+          infinite={false}
+        ></ImageGallery>
       </div>
     </div>
   )
