@@ -2,15 +2,22 @@ import React from 'react'
 import { Carousel } from '@material-tailwind/react'
 
 const Skills = ({ charData }) => {
-  return <div>
-    <div >
+  const carouselImages = charData.skills
 
+  return (
+    <div>
+      <div className='flex justify-center h-[10vh] pt-[3vh] text-xl text-[#C89B3C]'>
+        Habilidades/Itens de {charData.name}
+      </div>
+      <div>
+        <Carousel nextArrow={() => (<></>)} prevArrow={() => (<></>)}>
+          {carouselImages.map(image => (
+            <img src={image} className='h-[85vh] w-full object-contain' />
+          ))}
+        </Carousel>
+      </div>
     </div>
-    <Carousel>
-      <img src="https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/azir.png" alt="" className='h-full w-full object-cover' />
-      <img src="https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/azir.png" alt="" className='h-full w-full object-cover' />
-    </Carousel>
-  </div>
+  )
 }
 
 export default Skills
