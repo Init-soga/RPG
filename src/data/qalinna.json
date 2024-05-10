@@ -1,18 +1,56 @@
 {
-    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Qallinna/splash.png",
-    "name": "QALINNA",
-    "title": "A SOMBRA DA MENTIRA",
-    "bioTitle": "NÃO HÁ LIMITE PARA A CRIATIVIDADE QUANDO SE TRATA DE ENGANAR ALGUÉM",
-    "bio": "Entre as sombras de Runeterra, nas mais densas florestas e arcologias de Ixtal há uma figura que poucos ousam desafiar. Qalinna, a Sombra da Mentira, uma axiomata Yun Tal que usa sua habilidade de enganar e manipular a mente alheia para causar pânico e destruição. Sua beleza e graça são apenas fachadas, para esconder sua verdadeira natureza: uma predadora astuta e impiedosa, que não hesitará em te usar para alcançar seus objetivos.",
-    "speach": "Tome cuidado: a verdade é apenas uma questão de percepção e a sua está prestes a mudar. - Qalinna",
-    "roleName": "MAGO",
-    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/mage.png",
-    "regionName": "IXTAL",
-    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ixtal.png",
-    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/qiyana.png",
-    "relatedName1": "Qiyana",
-    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/milio.png",
-    "relatedName2": "Milio",
-    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/ruhra.png",
-    "relatedName3": "Ruhra"
+  "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Qallinna/splash.png",
+  "name": "QALINNA",
+  "title": "A SOMBRA DA MENTIRA",
+  "bioTitle": "NÃO HÁ LIMITE PARA A CRIATIVIDADE QUANDO SE TRATA DE ENGANAR ALGUÉM",
+  "bio": "Entre as sombras de Runeterra, nas mais densas florestas e arcologias de Ixtal há uma figura que poucos ousam desafiar. Qalinna, a Sombra da Mentira, uma axiomata Yun Tal que usa sua habilidade de enganar e manipular a mente alheia para causar pânico e destruição. Sua beleza e graça são apenas fachadas, para esconder sua verdadeira natureza: uma predadora astuta e impiedosa, que não hesitará em te usar para alcançar seus objetivos.",
+  "speach": "Tome cuidado: a verdade é apenas uma questão de percepção e a sua está prestes a mudar. - Qalinna",
+  "roleName": "MAGO",
+  "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/mage.png",
+  "regionName": "IXTAL",
+  "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ixtal.png",
+  "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/qiyana.png",
+  "relatedName1": "Qiyana",
+  "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/milio.png",
+  "relatedName2": "Milio",
+  "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/ruhra.png",
+  "relatedName3": "Ruhra",
+  "skills": [
+    {
+      "original": "https://live.staticflickr.com/65535/53711182657_4ce6b0c23f_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712090146_22b3eefd8a_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712089911_8785f614bd_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712089911_8785f614bd_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712522990_4fcea17e94_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712426679_e2cd045148_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712089901_237199e1ca_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712426744_aaa3fbb90e_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712305423_3b112bc1e3_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712523200_29f9a8dbbf_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712523055_a151ec82b2_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712523055_a151ec82b2_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53711182722_707977236c_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53711364447_fd7a7973ba_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712305358_af2a668e49_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53711373892_a849cba9de_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712426519_e6e8b4976b_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53711373892_a849cba9de_b.jpg"
+    }
+  ]
 }
