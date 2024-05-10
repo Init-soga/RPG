@@ -13,7 +13,7 @@ const Ficha = ({ charData }) => {
   const navigate = useNavigate()
 
   const handleBack = () => {
-    navigate(`/personagens`)
+    navigate(`/personagens/`)
   }
 
   const handleSkills = () => {
@@ -73,6 +73,8 @@ const Ficha = ({ charData }) => {
             </div>
           </div>
 
+          {/* BUTTONS */}
+
           <div className='flex justify-center gap-5'>
             <button
               className='border-2 px-5 py-2 border-[#C89B3C] rounded-md text-[#C89B3C]'
@@ -94,13 +96,11 @@ const Ficha = ({ charData }) => {
         </div>
       </MobileView>
 
-      {/* }
       <BrowserView>
-
         <div className='pt-10 h-[100vh] overflow-x-hidden'>
+          {/* SPLASH - REGION - ROLE */}
+
           <div className='w-[100%]'>
-
-
             <div className='flex justify-around px-5'>
               <Role roleName={charData.roleName} roleUrl={charData.roleUrl} />
               <Splash splashUrl={charData.splashUrl} />
@@ -110,17 +110,17 @@ const Ficha = ({ charData }) => {
               />
             </div>
 
-
+            {/* TITLES */}
 
             <Titles name={charData.name} title={charData.title} />
 
-
+            {/* BIO */}
 
             <div>
               <Bio bioTitle={charData.bioTitle} charBio={charData.bio} />
             </div>
 
-
+            {/* RELATED CHARS */}
 
             <div>
               <div>
@@ -146,7 +146,24 @@ const Ficha = ({ charData }) => {
               </div>
             </div>
 
+            {/* BUTTONS */}
 
+            <div className='flex justify-center gap-5 py-5'>
+              <button
+                className='border-2 px-5 py-2 border-[#C89B3C] rounded-md text-[#C89B3C]'
+                onClick={handleBack}
+              >
+                Voltar
+              </button>
+              <button
+                className='border-2 px-5 py-2 border-[#C89B3C] rounded-md text-[#C89B3C]'
+                onClick={handleSkills}
+              >
+                Habilidades
+              </button>
+            </div>
+
+            {/* CHARS */}
 
             <div>
               <Speach charSpeach={charData.speach} />
@@ -154,7 +171,6 @@ const Ficha = ({ charData }) => {
           </div>
         </div>
       </BrowserView>
-  {*/}
     </>
   )
 }

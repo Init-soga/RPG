@@ -1,18 +1,60 @@
 {
-    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Andrius/splash.png",
-    "name": "ANDRIUS",
-    "title": "A ARMA DO REMORSO",
-    "bioTitle": "A verdadeira maldição não é minha forma, mas sim minha memória.",
-    "bio": "Andrius carrega consigo o peso de suas escolhas passadas e o peso de ser usado em pról de um império que o abandonou. Apesar de todo sofrimento e dor que carrega, ele se mantém firme e busca encontrar redenção em meio à sua própria maldição. Com sua força inigualável e habilidades incomparáveis, Andrius está pronto para se vingar daqueles que ousam desafiá-lo.",
-    "speach": "Não tema minha aparência, há uma história por trás de cada cicatriz. - Andrius",
-    "roleName": "LUTADOR",
-    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png",
-    "regionName": "SHURIMA",
-    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/shurima.png",
-    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/azir.png",
-    "relatedName1": "Azir",
-    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/swain.png",
-    "relatedName2": "Swain",
-    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/atlas.jpg",
-    "relatedName3": "Atlas"
+  "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Andrius/splash.png",
+  "name": "ANDRIUS",
+  "title": "A ARMA DO REMORSO",
+  "bioTitle": "A verdadeira maldição não é minha forma, mas sim minha memória.",
+  "bio": "Andrius carrega consigo o peso de suas escolhas passadas e o peso de ser usado em pról de um império que o abandonou. Apesar de todo sofrimento e dor que carrega, ele se mantém firme e busca encontrar redenção em meio à sua própria maldição. Com sua força inigualável e habilidades incomparáveis, Andrius está pronto para se vingar daqueles que ousam desafiá-lo.",
+  "speach": "Não tema minha aparência, há uma história por trás de cada cicatriz. - Andrius",
+  "roleName": "LUTADOR",
+  "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png",
+  "regionName": "SHURIMA",
+  "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/shurima.png",
+  "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/azir.png",
+  "relatedName1": "Azir",
+  "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/swain.png",
+  "relatedName2": "Swain",
+  "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/atlas.jpg",
+  "relatedName3": "Atlas",
+  "skills": [
+    {
+      "original": "https://live.staticflickr.com/65535/53712369714_8fc4722152_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712465090_975b099a0d_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712247758_c15409d4ba_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712247398_c66266bb45_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712033511_62134e8cea_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712247378_01bf66abd0_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53711126097_07ec3a89fb_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712369309_7d7f75d39a_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712247613_77005f345d_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712369379_f432b60e96_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712033366_5485c716e2_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712369304_f278616f5c_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53711126237_55f01f868f_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712465150_4c24ea375a_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712247863_6ccbd4596e_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712465180_1df54aa0f3_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53712465635_33f3f46856_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712033126_f1079c505f_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53711126142_925537c727_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53712033131_f708702b2c_b.jpg"
+    }
+  ]
 }
