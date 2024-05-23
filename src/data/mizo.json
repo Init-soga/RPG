@@ -1,18 +1,88 @@
 {
-    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Mizo/splash.png",
-    "name": "MIZO",
-    "title": "O CÂNTICO DA REVOLUÇÃO",
-    "bioTitle": "Eu tocarei a partitura da revolução e Piltover cairá ao som de Dó menor.",
-    "bio": "Eu canto por todos aqueles que morreram nas sua mãos, caídos, expulsos... Mas só isso não adianta, eu irei atrás dos culpados, não importa o que eu precisarei enfrentar ou perder, Piltover se ajoelhará por tudo que fez ao nosso povo.",
-    "speach": "Saibam que quando as casas pegarem fogo e quando os ratos saírem dos bueiros para atacar, eu serei aquele que toca a flauta. - Mizo",
-    "roleName": "SUPORTE",
-    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/support.png",
-    "regionName": "ZAUN",
-    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/zaun.png",
-    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/ekko.png",
-    "relatedName1": "Ekko",
-    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/singed.png",
-    "relatedName2": "Singed",
-    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/criadora.png",
-    "relatedName3": "A Criadora"
+  "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Mizo/splash.png",
+  "name": "MIZO",
+  "title": "O CÂNTICO DA REVOLUÇÃO",
+  "bioTitle": "Eu tocarei a partitura da revolução e Piltover cairá ao som de Dó menor.",
+  "bio": "Eu canto por todos aqueles que morreram nas sua mãos, caídos, expulsos... Mas só isso não adianta, eu irei atrás dos culpados, não importa o que eu precisarei enfrentar ou perder, Piltover se ajoelhará por tudo que fez ao nosso povo.",
+  "speach": "Saibam que quando as casas pegarem fogo e quando os ratos saírem dos bueiros para atacar, eu serei aquele que toca a flauta. - Mizo",
+  "roleName": "SUPORTE",
+  "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/support.png",
+  "regionName": "ZAUN",
+  "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/zaun.png",
+  "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/ekko.png",
+  "relatedName1": "Ekko",
+  "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/singed.png",
+  "relatedName2": "Singed",
+  "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/criadora.png",
+  "relatedName3": "A Criadora",
+  "skills": [
+    {
+      "original": "https://live.staticflickr.com/65535/53721292878_c559dc34cd_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53721541920_dcc5abdf87_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721513925_bc4064155b_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53721541925_b1e0cd5a30_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721420709_cb5b30c240_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53720206017_775a004b70_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721420674_a97190e73b_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53721448039_d54d7d14bc_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53720178297_ed3ca56698_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53720205997_d785bdbe22_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721513705_d038bb50df_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53721321543_b2053f1854_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53720178152_15608e97d6_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53742126173_f852bf3aaf_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721513645_8c75e3dab1_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53741940291_82e369558f_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721513600_94086c4bf5_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53741940296_a962f73c97_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721420339_ebf07c2caf_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53742265589_e8a88c74f1_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721292388_eee3279d95_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53742129308_f17eb4cce7_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53720177997_5e6ca9c35d_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53741009592_fd0534de3b_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721513470_dd08aafa42_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53742126118_400369f9f2_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721292278_79cd6bf88c_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53742265569_1b5bcc56a8_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721420189_dbef6d310c_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53742353530_d970f5eb03_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721082581_f5fa0c6b6f_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53741940311_f248afbcca_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53721420579_b05544af6b_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53721541920_dcc5abdf87_b.jpg"
+    }
+  ]
 }
