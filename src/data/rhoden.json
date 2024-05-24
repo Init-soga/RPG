@@ -1,18 +1,60 @@
 {
-    "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Rhoden/splash.png",
-    "name": "RHODEN",
-    "title": "O EQUILÍBRIO IMUTÁVEL",
-    "bioTitle": "Pela minha mão Ionia prevalecerá, e nossa liberdade não poderá ser contida.",
-    "bio": "Filho abandonado de Noxus. Guerreiro forjado em Ionia. Treinado para comandar, Rhoden escolheu servir um propósito maior, a alguém maior, e nada irá impedí-lo de libertar as primeiras terras das garras de Noxus e do Trifárix.",
-    "speach": "Minha vontade é inigualável, minha lança imparável e meu brado, assustador. - Rhoden",
-    "roleName": "LUTADOR",
-    "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png",
-    "regionName": "IONIA/NOXUS",
-    "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ionia-noxus.png",
-    "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/irelia.png",
-    "relatedName1": "Irelia",
-    "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/jack.png",
-    "relatedName2": "Jack",
-    "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/swain.png",
-    "relatedName3": "Swain"
+  "splashUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/personagens/Rhoden/splash.png",
+  "name": "RHODEN",
+  "title": "O EQUILÍBRIO IMUTÁVEL",
+  "bioTitle": "Pela minha mão Ionia prevalecerá, e nossa liberdade não poderá ser contida.",
+  "bio": "Filho abandonado de Noxus. Guerreiro forjado em Ionia. Treinado para comandar, Rhoden escolheu servir um propósito maior, a alguém maior, e nada irá impedí-lo de libertar as primeiras terras das garras de Noxus e do Trifárix.",
+  "speach": "Minha vontade é inigualável, minha lança imparável e meu brado, assustador. - Rhoden",
+  "roleName": "LUTADOR",
+  "roleUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/roles/fighter.png",
+  "regionName": "IONIA/NOXUS",
+  "regionUrl": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/regions/ionia-noxus.png",
+  "relatedSplash1": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/irelia.png",
+  "relatedName1": "Irelia",
+  "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/jack.png",
+  "relatedName2": "Jack",
+  "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/swain.png",
+  "relatedName3": "Swain",
+  "skills": [
+    {
+      "original": "https://live.staticflickr.com/65535/53744106991_053ec66366_o.png",
+      "thumbnail": "https://live.staticflickr.com/65535/53744522170_fb9160ea4a_o.png"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744431134_fe1faf267f_o.png",
+      "thumbnail": "https://live.staticflickr.com/65535/53744522150_3c3518df53_o.png"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744431169_c1603cb206_o.png",
+      "thumbnail": "https://live.staticflickr.com/65535/53744295318_1bba171ec9_o.png"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744519100_51826a0ce7_o.png",
+      "thumbnail": "https://live.staticflickr.com/65535/53744110141_257d528ec4_o.png"
+    },
+    {
+        "original": "https://live.staticflickr.com/65535/53743181022_5bd22ebcac_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744110206_f4a009625e_o.png"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53743180967_ddfb01dc02_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53710995092_665822e5e7_o.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744292068_9c41567022_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744110151_13ff2f0235_o.png"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53743180952_ec7e1354ec_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744443735_a3c33f04da_o.png"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744431119_037eac5bb2_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744214943_be25a3f3b6_o.png"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744292098_9dbc902e18_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53743183902_67d5e4aefa_o.png"
+      }
+  ]
 }
