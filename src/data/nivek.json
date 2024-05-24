@@ -14,6 +14,48 @@
     "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/rell.png",
     "relatedName2": "Rell",
     "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/briar.png",
-    "relatedName3": "Briar"
+    "relatedName3": "Briar",
+    "skills": [
+      {
+        "original": "https://live.staticflickr.com/65535/53744195393_4d73a698a7_b.jpg",
+        "thumbnail": "https://live.staticflickr.com/65535/53744010961_36ccceb3ce.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744333514_dc9428466f_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744420750_db0a203eb0.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744420655_cf62c9f2a6_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53743083157_185969d6b2.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744333614_e6831a7ed3_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744010986_3285c3bae0.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744420695_2a8c59ed17_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744195563_26ed801a3d.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744010886_0031b705b2_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744010926_39a344230d_w.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744195383_bf8d35e230_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744420800_408fb3474c_w.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53743096737_526ff1f06b_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744214943_800551c34e_w.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744209028_37259e1cb3_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744443735_559fb846b1_w.jpg"
+      },
+      {
+        "original": "https://live.staticflickr.com/65535/53744010841_0901d9460f_o.png",
+        "thumbnail": "https://live.staticflickr.com/65535/53744420820_7b0f677b14_o.png"
+      }
+    ]
   }
   
