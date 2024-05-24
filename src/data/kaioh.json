@@ -14,5 +14,47 @@
   "relatedSplash2": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/qalinna.png",
   "relatedName2": "Qalinna",
   "relatedSplash3": "https://raw.githubusercontent.com/Init-soga/RPG/main/src/assets/relacionados/ruhra.png",
-  "relatedName3": "Ruhra"
+  "relatedName3": "Ruhra",
+  "skills": [
+    {
+      "original": "https://live.staticflickr.com/65535/53744295184_d3f9faa12b_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744122348_09c2ed704f_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744260144_3a06581091_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744260239_9692823405_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744260134_22dbda0dc6_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744122393_b2b21057b1_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53743008927_d4d6f859d3_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744260314_4f6bee4463_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53743008822_6b82180c38_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744348430_96ed87d952_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53743008807_33a3f0f292_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744348480_b45b1ff525_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53743008797_fa872e85e3_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53743009022_687a5b89b4_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744348450_94aec43ce3_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744122343_64ec6e04fc_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53744260209_1e32ed680b_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744348495_8f37d35fec_b.jpg"
+    },
+    {
+      "original": "https://live.staticflickr.com/65535/53743061472_d3dd004127_b.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/53744260289_df165cf27e_b.jpg"
+    }
+  ]
 }
