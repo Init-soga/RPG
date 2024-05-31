@@ -10,10 +10,12 @@ const Home = () => {
 
   return (
     <>
-      <div className="flex flex-col justify-center items-center min-w-screen min-h-screen bg-[url('./assets/root.png')] md:bg-[url('./assets/pcRoot.jpg')]">
-        <br />
+      <div className="flex flex-col justify-center items-center min-w-screen min-h-screen bg-[#010A13] pb-10">
+        <div className='md:w-[40vw] pb-10'>
+          <img src="https://live.staticflickr.com/65535/53760773719_c4d7daf624_o.png" alt="" />
+        </div>
         <button
-          className='border-[#C89B3C] bg-[#0A1428] border py-3 px-6 text-[#FFF]'
+          className='border-[#C89B3C] bg-[#0A1428] border-2 text-xl py-3 px-6 text-[#FFF] font-bold rounded'
           onClick={handleClick}
         >
           Iniciar
@@ -24,3 +26,4 @@ const Home = () => {
 }
 
 export default Home
+

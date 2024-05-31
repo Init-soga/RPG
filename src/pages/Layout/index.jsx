@@ -1,6 +1,5 @@
 import React from 'react'
 import { Outlet } from 'react-router-dom'
-import Ficha from '../../components/Ficha'
 
 const Layout = () => {
   return (

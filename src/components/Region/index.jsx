@@ -11,7 +11,7 @@ const Region = ({regionName, regionUrl}) => {
             className=' w-full h-full object-contain object-center'
           />
         </div>
-        <div className='text-sm md:pt-5 text-[#C89B3C]'>{regionName}</div>
+        <div className='text-sm md:pt-5 text-[#C89B3C] font-bold'>{regionName}</div>
       </div>
     </>
   )

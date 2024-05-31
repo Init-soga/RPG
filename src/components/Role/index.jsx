@@ -11,7 +11,7 @@ const Role = ({ roleUrl, roleName }) => {
             className='w-full h-full object-contain object-center'
           />
         </div>
-        <div className='text-center text-sm md:pt-5 text-[#C89B3C]'>
+        <div className='text-center text-sm md:pt-5 text-[#C89B3C] font-bold'>
           {roleName}
         </div>
       </div>
